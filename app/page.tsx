@@ -56,6 +56,7 @@ export default function Home() {
             Find in-depth information about Next.js features and API new 4.
             new line 1
             new line 2
+            new line 3
           </p>
         </a>
 
