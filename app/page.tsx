@@ -54,6 +54,7 @@ export default function Home() {
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
             Find in-depth information about Next.js features and API new 4.
+            new line 1
           </p>
         </a>
 
